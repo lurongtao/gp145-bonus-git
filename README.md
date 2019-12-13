@@ -1,3 +1,7 @@
 # GIT
-`git init`
-`git remote add origin address`
+```
+git init
+```
+```
+git remote add origin address
+```
